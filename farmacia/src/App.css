@@ -1,0 +1,10 @@
+.header-red {
+  background-color: red; /* Cor de fundo vermelha */
+  height: 100px; /* Altura da seção */
+  width: 100%; /* Largura total */
+  display: flex;
+  justify-content: center; /* Centraliza o conteúdo horizontalmente */
+  align-items: center; /* Centraliza o conteúdo verticalmente */
+  color: white; /* Cor do texto */
+  font-size: 24px; /* Tamanho da fonte */
+}

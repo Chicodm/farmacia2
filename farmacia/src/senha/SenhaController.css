@@ -1,0 +1,42 @@
+.senha-controller {
+    position: fixed; /* Mantém o componente fixo na tela */
+    bottom: 20px; /* Distância do fundo da tela */
+    right: 20px; /* Distância da direita da tela */
+    width: 300px; /* Largura fixa para o controlador */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Certifica que esteja acima de outros elementos */
+  }
+  
+  
+  button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .display-senha {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .status-fila {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  

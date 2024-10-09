@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+body {
+  font-family: 'Arial', sans-serif; /* Fonte mais legível */
+  background-color: #f4f4f4; /* Fundo uniforme */
+  color: #333; /* Cor de texto padrão */
+}
