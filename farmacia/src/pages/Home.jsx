@@ -1,6 +1,6 @@
 import Header from "../components/Header";
 import Conteudo from "../components/Conteudo";
-import SenhaController from "../senha/SenhaController"; // Importe o novo componente
+import SenhaController from "../senha/SenhaController"; 
 
 function Home() {
   return (

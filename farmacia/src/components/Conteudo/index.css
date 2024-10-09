@@ -1,35 +1,35 @@
 .conteudo-container {
-    height: auto; /* Permite que o conteúdo cresça conforme necessário */
+    height: auto; 
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 25px;
-    padding: 20px; /* Adiciona espaçamento interno */
-    border: 1px solid #ddd; /* Borda leve para destacar a área */
-    border-radius: 8px; /* Bordas arredondadas */
-    background-color: white; /* Fundo branco para o conteúdo */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    padding: 20px; 
+    border: 1px solid #ddd; 
+    border-radius: 8px;
+    background-color: white; 
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
   }
   
   .logoG {
-    width: 100%; /* Mantém a imagem responsiva */
-    max-width: 400px; /* Largura máxima para imagens */
-    height: auto; /* Mantém a proporção da imagem */
-    margin: 10px 0; /* Espaçamento vertical */
+    width: 100%; 
+    max-width: 400px; 
+    height: auto; 
+    margin: 10px 0; 
   }
   
   button {
-    background-color: #4CAF50; /* Cor de fundo dos botões */
+    background-color: #4CAF50; 
     color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
-    margin: 10px 0; /* Espaçamento entre os botões */
+    margin: 10px 0; 
   }
   
   button:hover {
-    background-color: #45a049; /* Tom mais escuro no hover */
+    background-color: #45a049; 
   }
   

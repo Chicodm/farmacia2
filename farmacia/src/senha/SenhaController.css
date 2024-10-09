@@ -1,14 +1,14 @@
 .senha-controller {
-    position: fixed; /* Mantém o componente fixo na tela */
-    bottom: 20px; /* Distância do fundo da tela */
-    right: 20px; /* Distância da direita da tela */
-    width: 300px; /* Largura fixa para o controlador */
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    width: 300px; 
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 8px;
     background-color: #fff;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    z-index: 1000; /* Certifica que esteja acima de outros elementos */
+    z-index: 1000; 
   }
   
   

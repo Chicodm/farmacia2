@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './SenhaController.css'; // Crie um arquivo CSS para este componente
+import './SenhaController.css'; 
 
 function SenhaController() {
   const [fila, setFila] = useState([]);
